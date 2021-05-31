@@ -1,4 +1,6 @@
-package factory;
+package car;
+
+import factory.Product;
 
 public class Car implements Product {
 

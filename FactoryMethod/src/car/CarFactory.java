@@ -1,4 +1,7 @@
-package factory;
+package car;
+
+import factory.Factory;
+import factory.Product;
 
 public class CarFactory extends Factory {
 

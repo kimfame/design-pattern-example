@@ -1,4 +1,6 @@
-package factory;
+package phone;
+
+import factory.Product;
 
 public class Phone implements Product {
 

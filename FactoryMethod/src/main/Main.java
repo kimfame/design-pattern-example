@@ -1,4 +1,9 @@
-package factory;
+package main;
+
+import car.CarFactory;
+import factory.Factory;
+import factory.Product;
+import phone.PhoneFactory;
 
 public class Main {
 
